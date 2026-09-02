@@ -11,7 +11,7 @@ public class Vertical_Page {
 	private WebDriver driver;
 	private Actions a;
 //	public Actions a=new Actions(driver);
-	
+	//welcome
 	@FindBy(xpath="(//a[text()=\"Verticals\"])[1]")
 	WebElement ver;
 	
